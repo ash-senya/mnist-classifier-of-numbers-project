@@ -30,8 +30,8 @@ history = model.fit(ready_features_train, ready_targets_train,
                     validation_data=(ready_features_test, ready_targets_test))
 ```
 #### The learning process can be seen on the graph and table
-![image](learning-procces.png)
-![image](learning-epochs.png)
+![image](images/learning-procces.png)
+![image](images/learning-epochs.png)
 
 ## ❗ For the convenience of the next use of the model, the 'mnist_classifier' class was written.To use the model, you need to create an instance of the class.
 
