@@ -1,5 +1,12 @@
 # mnist-classifier-of-numbers-project
 
+### *--tensorflow   2.14.0*
+### *--keras    2.14.0*
+### *--numpy    1.26.0*
+### *--pandas   2.1.1*
+### *--matplotlib   3.8.0*
+### *--scikit-learn    1.3.2*
+
 ## ❗ The goal of this research was to develop a neural network that would predict the enrollment of numbers with 99% accuracy.
 
 #### *The network consists of 4 hidden layers, the activator is Relu, and the optimizer is Adam. all methods are standard from keras. The neural network went through 20 epochs and was able to achieve an accuracy of more than 0.95 already at the 9th epoch.*  
